@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6675
     wikipedia: http://fi.wikipedia.org/wiki/Maikki_Friberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16678#Tieni-varrella-tapaamia-1
 gutenberg_issued: '2005-09-10'
 gutenberg_type: Text
 identifiers:
