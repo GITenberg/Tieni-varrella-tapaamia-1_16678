@@ -1,0 +1,32 @@
+_repo: Tieni-varrella-tapaamia-1_16678
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Friberg, Maikki
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '6675'
+    url: http://www.gutenberg.org/2009/agents/6675
+    wikipedia: http://fi.wikipedia.org/wiki/Maikki_Friberg
+description: ''
+gutenberg_issued: '2005-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16678'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Biography -- 19th century'
+- !lcc 'CT'
+tableOfContents: Eva Ingman -- Anna Berendsen -- Vaikutelmani Virosta -- Hector Denis
+  -- Alexander Herzenin tyttären luona -- Catherine Breschkovski -- Kuuluisuuksien
+  kesken -- Personallisia muistoja Gina Krogista -- Professori Georg v. Gizucki --
+  Ystäväni Auguste Fickert -- Charlotte Schröder -- Liebknechtin puolisot -- Ann Margret
+  Holmgrén -- Bertha v. Suttner.
+title: Tieni varrella tapaamia 1
+url: http://www.gutenberg.org/ebooks/16678
